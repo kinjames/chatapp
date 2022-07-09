@@ -7,7 +7,7 @@
 }
 
 body {
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;    
 }
@@ -60,7 +60,6 @@ main{
     flex-direction: column;
     gap: 30px;
     justify-content: center;
-    text-align: center;
 }
 
 .phone {
@@ -258,6 +257,20 @@ label {
     padding: 10px 0 0 0;
 }
 
+.circle {
+    accent-color: hsl(293, 100%, 63%);
+}
+
+input[type="radio"] {
+	appearance: none;
+	width: 20px;
+	height: 20px;
+	border: 2px solid hsl(289, 100%, 72%);
+	border-radius: 50%;
+	background-clip: content-box;
+	padding: 3px;
+}
+
 button{
     position: absolute;
     left: 85%;
@@ -341,6 +354,10 @@ button i {
     .last-bg {
         height: 40%;
         width: 50%;
+    }
+
+    .text{
+        text-align: center;
     }
 }
 

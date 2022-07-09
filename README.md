@@ -2,7 +2,7 @@
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Chat app CSS illustration](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub/tip-calculator-app-mcxG4pQuiK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Chat app CSS illustration](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub/chat-app-css-illustration-UKgatiHNJ2). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/desktop-design-completed.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 ![Mobile Design](./design/mobile-design.jpg)
 
 ### Links
