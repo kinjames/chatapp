@@ -36,6 +36,7 @@ main{
     height: 80%;
     width: 30%;
     border-top-left-radius: 300px;
+    border-top-right-radius: 100px;
     z-index: -1000;
     position: fixed;
     bottom: 0;
@@ -45,7 +46,7 @@ main{
 .body {
     width: 50%;
     display: flex;
-    margin: 60px auto;
+    margin: 30px auto;
     display: flex;
     justify-content: space-between;
 }
@@ -112,7 +113,7 @@ h1 {
 .profile {
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 10px 20px;
 
 }
 
@@ -164,7 +165,7 @@ h1 {
 .chat {
     padding: 10px;
     background-color: hsl(270, 20%, 96%);
-    border-radius: 0 0 30px 30px;
+    border-radius: 0 0 30px 20px;
 }
 
 .texts {
@@ -254,7 +255,6 @@ label {
 
 .message {
     position: relative;
-    padding: 10px 0 0 0;
 }
 
 .circle {
