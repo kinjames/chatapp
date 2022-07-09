@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/tip-calculator-qmtcNVhOfD)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/chat-app-css-illustration-XnRM6XC2Iq)
 - Live Site URL: [Github](https://kinjames.github.io/chatapp/)
 
 ## My process

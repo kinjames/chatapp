@@ -9,7 +9,8 @@
 body {
     height: 100vh;
     display: flex;
-    flex-direction: column;    
+    flex-direction: column; 
+    font-family: 'Rubik', sans-serif;   
 }
 
 main{
@@ -71,7 +72,7 @@ main{
 
 .paras {
     line-height: 24px;
-    font-weight: 500;
+    font-weight: 400;
     color: hsl(270, 7%, 64%);
 }
 
@@ -151,7 +152,7 @@ h1 {
 }
 
 .myname {
-    font-weight: bold;
+    font-weight: 500;
     color: #fff;
     font-size: 18px;
 }
@@ -181,7 +182,7 @@ h1 {
     color: hsl(276, 55%, 52%);
     background-color: hsl(270, 20%, 86%);
     padding: 10px;
-    font-weight: 500;
+    font-weight: 400;
     width: 60%;
     border-radius: 24px 24px 24px 10px;
 }
@@ -213,7 +214,7 @@ h1 {
     background-color: #fff;
     color: black;
     font-size: 12px;
-    font-weight: 500;
+    font-weight: 400;
     width: 60%;
     border-radius: 24px 24px 10px 24px
 }
